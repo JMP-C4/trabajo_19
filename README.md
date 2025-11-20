@@ -26,3 +26,6 @@ Backend FastAPI + PostgreSQL with React SPA frontend, aligned to the CI/CD pract
 - Integration and benchmark suites require Docker available for Testcontainers.
 - E2E suite is opt-in; set `E2E_BASE_URL` to a running backend (or full stack) before running `pytest -m e2e`.
 - Coverage report can be produced with `cd backend && pytest --cov=app`.
+
+## Notes
+link of evidence: https://drive.google.com/drive/folders/114djirLtMEwL9uY6N6yGzXKMkBhzDPdf?usp=drive_link
